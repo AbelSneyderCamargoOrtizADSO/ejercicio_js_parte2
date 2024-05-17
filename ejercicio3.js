@@ -7,16 +7,14 @@ argumento
 • devuelva el array final con el resultado de cada una de las llamadas al callback.
 */
 
-const numeros = [5, 8, 10]
-const result = [];
+const numeros = [5, 8, 10, 19]
+const nuevoArray = [];
 
-function dop(x) {
-  return x - 1
-}
+const callback = x => x - 1;
 
-const resultado = numeros.map(dop, function () {
-  result.push(result)
-})
+const resultado = numeros.map(callback)
 
-console.table(resultado)
-console.table()
+nuevoArray.push(...resultado)
+
+console.log(nuevoArray)
+
