@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "edad": 30,
+        "profesion": "Ingeniero"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "García",
+        "edad": 25,
+        "profesion": "Diseñadora"
+    },
+    {
+        "nombre": "Abel",
+        "apellido": "Camargo",
+        "edad": 19,
+        "profesion": "Programador Senior"
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Martínez",
+        "edad": 28,
+        "profesion": "Médica"
+    },
+    {
+        "nombre": "Miguel",
+        "apellido": "Hernández",
+        "edad": 40,
+        "profesion": "Profesor"
+    }
+]
