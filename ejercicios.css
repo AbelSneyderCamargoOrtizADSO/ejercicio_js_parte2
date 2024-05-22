@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+  background-color: #f6f2d0;
+
+}
+
+.btn{
+  padding: 30px 50px;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  transition: all .2s ease;
+
+}
+
+.btn:hover{
+  transform: scale(1.2);
+}
